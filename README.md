@@ -1,4 +1,4 @@
-### Hi there 👋, This is MUHTASIM HOSSAIN
+### Greetings , This is MUHTASIM HOSSAIN
 #### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
