@@ -10,7 +10,7 @@ Skills: Python / JavaScript / HTML5 / CSS3 / Node.js / React.js / PHP
 - 🌱 I’m currently learning MySQL and PHP to further strengthen my back-end capabilities and bolster my proficiency in building robust web applications. 
 - 👯 I’m looking to collaborate on GitHub, where I can contribute my expertise to exciting projects and collaborate with like-minded developers, bridging the gap between front-end and back-end development. 
 - 📫 How to reach me: Please feel free to connect with me on LinkedIn. I welcome discussions on potential collaborations and invite you to stay updated on my latest full stack development initiatives and achievements. 
-- ⚡ Fun fact: I love to travel  
+- ⚡ Hobby?  I love to travel  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muhtasiim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-muhtasim-hossain-a7ab63227//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/muhtasim.sadid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sadid_muhtasim//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/MuhtasimHossain1)  
