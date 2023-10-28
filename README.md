@@ -4,7 +4,7 @@
 
 I am a Full Stack Developer with expertise in both front-end and back-end web development. My experience spans various approaches to building dynamic web projects, and I am proficient in a range of programming languages and libraries, including HTML5, CSS3, JavaScript, Node.js, React.js, PHP, Python, and more.
 
-Skills: Python / JavaScript / HTML5 / CSS3 / Node.js / React.js / PHP
+Skills: Python / JavaScript / HTML5 / CSS3 / Node.js / React.js / PHP / Java
 
 - 🔭 I’m currently working on my personal growth and skill enhancement. I am dedicated to refining my full stack development skills, ensuring a seamless integration between front-end and back-end components, and staying updated with the latest technologies. 
 - 🌱 I’m currently learning MySQL and PHP to further strengthen my back-end capabilities and bolster my proficiency in building robust web applications. 
