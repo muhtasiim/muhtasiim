@@ -2,7 +2,7 @@
 #### **Full Stack Developer**
 ![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQE98sQeV5hFlQ/profile-displaybackgroundimage-shrink_350_1400/0/1696331871313?e=1701907200&v=beta&t=WDS40B_HRrb-aYdpCCDuFGuJMwOb-71F8182dhUwGgI)
 
-I am a Full Stack Developer with expertise in both front-end and back-end web development. My experience spans various approaches to building dynamic web projects, and I am proficient in a range of programming languages and libraries, including HTML5, CSS3, JavaScript, Node.js, React.js, PHP, Python, and more.
+I am a web Developer with expertise in both front-end and back-end web development. My experience spans various approaches to building dynamic web projects, and I am proficient in a range of programming languages and libraries, including HTML5, CSS3, JavaScript, Node.js, React.js, PHP, Python, and more.
 
 Skills: Python / JavaScript / HTML5 / CSS3 / Node.js / React.js / PHP / Java / MySQL
 
