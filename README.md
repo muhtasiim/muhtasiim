@@ -24,6 +24,6 @@ I am a passionate web developer with expertise in both front-end and back-end te
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtasiim&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhtasiim&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhtasiim&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true&area=true)
 
 ![Profile views](https://gpvc.arturio.dev/muhtasiim)
