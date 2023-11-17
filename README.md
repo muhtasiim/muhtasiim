@@ -34,6 +34,6 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhtasiim&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true&area=true)
 
-![Profile views](https://gpvc.arturio.dev/muhtasiim)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasiim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
