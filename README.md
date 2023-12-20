@@ -2,7 +2,7 @@
 # Welcome to Muhtasim Hossain's Profile! 👋
 ### Full Stack Developer | Web Enthusiast
 
-![Full Stack Developer] (https://media.licdn.com/dms/image/D5616AQE98sQeV5hFlQ/profile-displaybackgroundimage-shrink_350_1400/0/1696331871313?e=1701907200&v=beta&t=WDS40B_HRrb-aYdpCCDuFGuJMwOb-71F8182dhUwGgI)
+![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQE98sQeV5hFlQ/profile-displaybackgroundimage-shrink_350_1400/0/1696331871313?e=1701907200&v=beta&t=WDS40B_HRrb-aYdpCCDuFGuJMwOb-71F8182dhUwGgI)
 
 
 I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in building dynamic web projects.
