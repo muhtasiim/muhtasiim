@@ -10,7 +10,7 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 - 💻 Love coding and exploring the latest technologies.
 - 🔭 Currently enhancing my skills for seamless front-end and back-end integration.
 - 👯 Open for collaborations on exciting GitHub projects.
-- ⚡ Enjoy traveling and playing indoor-outdoor games.
+- ⚡ Enjoy traveling and playing indoor-outdoor games .
 
 🚀 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/md-muhtasim-hossain-a7ab63227/)
