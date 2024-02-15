@@ -16,7 +16,7 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 - [LinkedIn](https://www.linkedin.com/in/md-muhtasim-hossain-a7ab63227/)
 - [Portfolio](https://muhtasiim.github.io/Muhtasim/)
 
-## Skills
+# Skills
 - Front-end: HTML5, CSS3, JavaScript, React.js
 - Back-end: Node.js, PHP, Python, Java, MySQL
 
@@ -25,7 +25,7 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 - Collaborating on GitHub for the next big thing.
 - learning flutter
 
-## Fun Facts
+### Fun Facts
 - Love exploring new places and their cultures.
 - Game enthusiast - both indoor and outdoor.
 
