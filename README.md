@@ -23,7 +23,7 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 ## What I'm up to
 - Building robust web applications with a touch of innovation 
 - Collaborating on GitHub for the next big thing.
-- learning flutter
+- Learning Wordpress
 
 ### Fun Facts
 - Love exploring new places and their cultures.
