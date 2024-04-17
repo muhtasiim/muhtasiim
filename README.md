@@ -29,7 +29,6 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 - Love exploring new places and their cultures.
 - Game enthusiast - both indoor and outdoor.
 
-💡 Keep coding, stay creative, and make an impact!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtasiim&show_icons=true&theme=radical)
 
