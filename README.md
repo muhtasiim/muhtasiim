@@ -19,12 +19,12 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 - Front-end: HTML5, CSS3, JavaScript, React.js , Wordpress
 - Back-end: Node.js, PHP, Python, Java, MySQL
 
-## What I'm up to
+##What I'm up to
 - Building robust web applications with a touch of innovation 
 - Collaborating on GitHub for the next big thing.
 
 
-### Fun Facts
+###Fun Facts
 - Love exploring new places and their cultures.
 - Game enthusiast - both indoor and outdoor.
 
