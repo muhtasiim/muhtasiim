@@ -24,7 +24,7 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 - Collaborating on GitHub for the next big thing.
 
 
-###Fun Facts
+###More About Me
 - Love exploring new places and their cultures.
 - Game enthusiast - both indoor and outdoor.
 
