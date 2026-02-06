@@ -18,9 +18,10 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 # Skills
 - Front-end: HTML5, CSS3, JavaScript, React.js , Wordpress
 - Back-end: Node.js, PHP, Python, Java, MySQL
+- Digital Marketing : Meta Ads, GA4, Search Console
 
 ##What I'm up to
-- Building robust web applications with a touch of innovation 
+- Working on projects that combine digital marketing, strategy and technology, including campaign dashboards and web enhancements.
 - Collaborating on GitHub for the next big thing.
 
 
@@ -29,7 +30,4 @@ I am Muhtasim Hossain, a passionate Full Stack Developer with expertise in build
 - Game enthusiast - both indoor and outdoor.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtasiim&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasiim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
