@@ -1,6 +1,6 @@
 
 # Welcome to Muhtasim Hossain's Profile! 👋
-### Full Stack Developer | Web Enthusiast
+###  Web Enthusiast | Digital Marketing Strategist | Project Manager
 
 
 
